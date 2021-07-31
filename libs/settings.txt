@@ -1,0 +1,27 @@
+#############################################
+<Panel>{
+	'centerFrameWidth':453,
+	'sessionColumnWidth':140,
+	'ipColumnWidth':135,
+	'protocolColumnWidth':70,
+	'typeColumnWidth':40,
+	'usernameColumnWidth':140,
+	'lastSeeItemID':'MGWstest2',
+}</Panel>
+#############################################
+<Sessions>{
+	'MGWs':{
+		'omgw_krb1':['10.6.132.65','ssh','mgw','a54476087c18c755ce63a73b','5312ae40ad498c1ab752860dc75fa742d266790dd1625f2f521945148553'],
+		'test1':['192.168.0.103','telnet','mss','800f','b7467645'],
+		'test2':['192.168.0.103','ssh','mgw','ab3a','da695a29'],
+	},
+	'MSSs':{
+		'OMSS_BEL1':['10.31.117.84','ssh','mss','a9689b4da25e7f2dae63b064','4c0b94467c389f4db16c8e35560e500b7e329d51b96a4817'],
+		'OMSS_CHR1':['10.9.212.197','ssh','mss','925170228642aa586a1f7226','6d2c611366229a48843faa51a860af6aaf636519691a7847'],
+		'OMSS_KRB1':['10.6.104.13','ssh','mss','5312a85a48049341a0558438','49086315601c903ea35ebe65b56dae69661a530780316f3e'],
+		'OMSS_NAL1':['10.7.213.197','ssh','mss','57169c4e520e8d3b671c7125','a160742674308f3d5611862db36b833e974b50047d2e501f'],
+		'OMSS_VLD1':['10.15.109.253','ssh','mss','4e0d9a4c64205f0d7c319e52','4f0e7b2d67238b398a45660d7c347a355004b36751028150'],
+		'wood_pc':['192.168.0.103','ssh','mgw','d261','800f6736'],
+	},
+}</Sessions>
+##############################################
